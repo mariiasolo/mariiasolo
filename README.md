@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mariiasolo
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS and JS, React
-- 💞️ I’m looking to collaborate on various school projects in order to gain more experience 
+- 👀 I’m interested in web development. I would love to link knowledge in Frontend Development and UI/UX design and become UI developer by designing and coding best user experiences. 
+- 🌱 I’m currently learning React, NextJs, Tailwind CSS. Additionally, I learn Figma design tool. 
+- 💞️ I’m looking to collaborate on various projects in order to gain more experience. 
 - 📫 How to reach me at [(https://mariiasolo.com/),  mariia_solo@hotmail.com or mariia.solo@myy.haaga-helia.fi
 
 <!---
